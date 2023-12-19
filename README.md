@@ -1,8 +1,8 @@
 # Demo
 
-##This is a repository used to learn about Git and GitHub
+## This is a repository used to learn about Git and GitHub
 
-**steps to be followed to create this 
+*steps to be followed to create this* 
 
 +create an empty repository named `demo` in [GitHub](https://github.com/new)
 
